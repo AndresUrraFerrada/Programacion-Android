@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Evaluacion11</string>
+    <string name="permisos">
+        <b>CONDICIONES DE COMPRA Y ENVÍOS</b>\n\n
+
+
+        ♡Todas las ventas se realizan únicamente a través de\nnuestro sitio web www.kawaiitreats.cl\n *Los envíos a región son realizados los días MIÉRCOLES\n
+
+        *Los envíos dentro de Santiago y a 5ta región son\n realizados el día JUEVES; . Esto puede ser modificado\n ante cualquier eventualidad y será anunciado por\n
+        nuestras redes sociales.
+
+        MÉTODOS DE ENVÍO ♡\n BLUEXPRESS:  Todos los envíos excluyendo Santiago y 5ta región serán enviados\n a través de BLUEXPRESS. El tiempo promedio de entrega
+        de encomiendas de BLUEXPRESS\n es de 3 a 5 días hábiles en regiones y 6 a 7 días hábiles\n en regiones extremas desde el envío. En algunas ocasiones bluexpress puede\n
+        determinar no realizar la entrega a domicilio y despacharla a la sucursal mas cercana;\n a su vez también puede presentar retrasos ocasionales de hasta 10 días hábiles.\n
+
+        Desde el momento que es despachado el paquete a través de bluexpress es responsabilidad\n del cliente monitorear con el código de seguimiento enviado su encomienda y \n
+        ante cualquier problema o eventualidad será el \n cliente quien deba comunicarse con correos de chile npara mantener progreso con el envío.
+
+        Los envíos con bluexpress son realizados los días MIÉRCOLES\n EL TIEMPO QUE MANEJA BLUEXPRESS ES DETERMINADO POR ELLOS. \nNosotros podemos hacer un estimado, \n
+        pero no somos la empresa de transporte.
+
+        Cualquier demora desde el momento del envío es responsabilidad \n de la empresa mencionada anteriormente.
+
+    </string>
+
+
+</resources>
