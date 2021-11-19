@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">andres_urra_prueba_2</string>
+    <string name="nombre">Nombre Sensor</string>
+    <string name="valor">Valor Sensor</string>
+    <string name="fecha">Fecha</string>
+    <string name="observacion">Observacion</string>
+    <string name="btn_guardar">Guardar Sensor</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+
+</resources>
